@@ -1,0 +1,14 @@
+[
+    {
+        "eventId": "a7bca545-7420-4d4d-b22d-9e35d4e9e164",
+        "emitterUserProfileId": "47755ece-7bb3-4624-8ab3-dacf97efa0ab",
+        "targetUserProfileId": "61854bd7-294c-4b24-a8e6-809e68a8de3c",
+        "timestamp": 1640961437669
+    },
+    {
+        "eventId": "bd1fba77-645e-4556-928c-53620b6c30f7",
+        "emitterUserProfileId": "47755ece-7bb3-4624-8ab3-dacf97efa0ab",
+        "targetUserProfileId": "61854bd7-294c-4b24-a8e6-809e68a8de3c",
+        "timestamp": 1640961457167
+    }
+]
