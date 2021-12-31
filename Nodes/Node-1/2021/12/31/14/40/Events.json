@@ -1,0 +1,20 @@
+[
+    {
+        "eventId": "8adb6628-fc3a-4584-920c-72740a42fbca",
+        "emitterUserProfileId": "47755ece-7bb3-4624-8ab3-dacf97efa0ab",
+        "targetUserProfileId": "61854bd7-294c-4b24-a8e6-809e68a8de3c",
+        "timestamp": 1640961628668
+    },
+    {
+        "eventId": "525cf94d-ac37-4683-a67f-ded0c0b65e07",
+        "emitterUserProfileId": "47755ece-7bb3-4624-8ab3-dacf97efa0ab",
+        "targetUserProfileId": "61854bd7-294c-4b24-a8e6-809e68a8de3c",
+        "timestamp": 1640961647223
+    },
+    {
+        "eventId": "820431f6-eaba-49ad-84e0-394fae92498d",
+        "emitterUserProfileId": "47755ece-7bb3-4624-8ab3-dacf97efa0ab",
+        "targetUserProfileId": "61854bd7-294c-4b24-a8e6-809e68a8de3c",
+        "timestamp": 1640961651458
+    }
+]
