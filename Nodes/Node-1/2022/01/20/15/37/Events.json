@@ -1,0 +1,19 @@
+[
+    {
+        "eventId": "f479aa90-1255-4146-9c52-81509d541d9f",
+        "eventType": 11,
+        "originSocialPersonaId": "ca9ef7ee-3fc3-4c7a-a51e-3e1c6bd8bd44",
+        "targetSocialPersonaId": "ca9ef7ee-3fc3-4c7a-a51e-3e1c6bd8bd44",
+        "originPostHash": "0x7a1233c79b08de1edf34429b0630a75f228c1239f7ab65e0ccf5e2fef699f640",
+        "targetPostHash": "0x41d5a9c9c2b86b6b51e216500b8e9efe5ffca1d83cfbfc4821d5f6645d82a266",
+        "timestamp": 1642693044028,
+        "fileKeys": [
+            {
+                "timestamp": 1642693043428,
+                "fileName": "0x7a1233c79b08de1edf34429b0630a75f228c1239f7ab65e0ccf5e2fef699f640",
+                "storageContainerId": "252d4414-cc35-4057-9a76-5f2f77c331b3",
+                "password": "hnr74bwetnij6awu3h9g7cw5u4nn673w"
+            }
+        ]
+    }
+]
