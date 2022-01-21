@@ -1,0 +1,14 @@
+[
+    {
+        "eventId": "b3a5964a-1b7e-4583-bd20-43859ca81ee8",
+        "originSocialPersonaId": "ca9ef7ee-3fc3-4c7a-a51e-3e1c6bd8bd44",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1642781900773
+    },
+    {
+        "eventId": "50748c3c-3402-4b9d-97af-8eb483501a5d",
+        "originSocialPersonaId": "ca9ef7ee-3fc3-4c7a-a51e-3e1c6bd8bd44",
+        "targetSocialPersonaId": "152c461e-4149-4d5f-9f28-6b37ef55f49c",
+        "timestamp": 1642781902066
+    }
+]
